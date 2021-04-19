@@ -1,4 +1,3 @@
-# Video-Demo
 AVERtek's XR Demo Video
 <video controls width="250">
 
