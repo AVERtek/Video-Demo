@@ -10,5 +10,5 @@ AVERtek's XR Demo Video
 
     Sorry, your browser doesn't support embedded videos.
 </video>
-
+description: > # your text below (remove <br> elements if you don't need line breaks)
 <h2 style="text-align: center;" markdown="1"><a href="https://avertek.net/xr-now" onclick="getOutboundLink('https://avertek.net/xr-now'); return false;"<b> LEARN MORE ABOUT XR-NOW</b></h2></a> 
