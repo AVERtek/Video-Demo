@@ -11,4 +11,4 @@ AVERtek's XR Demo Video
     Sorry, your browser doesn't support embedded videos.
 </video>
 
-<h2 style="text-align: center;" markdown="1"><a href="https://avertek.github.io/AlexanBahay-WalkingTour/" onclick="getOutboundLink('https://avertek.github.io/AlexanBahay-WalkingTour/'); return false;"> LEARN MORE ABOUT XR-NOW</a></h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
+<a href="https://avertek.net/xr-now" onclick="getOutboundLink('https://avertek.net/xr-now'); return false;"> LEARN MORE ABOUT XR-NOW</a></h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
